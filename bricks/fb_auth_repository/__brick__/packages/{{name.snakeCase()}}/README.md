@@ -10,11 +10,11 @@ A Very Good Project created by Very Good CLI.
 
 **❗ In order to start using Authentication Repository you must have the [Dart SDK][dart_install_link] installed on your machine.**
 
-Add `authentication_repository` to your `pubspec.yaml`:
+Add `{{name.snakeCase()}}` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  authentication_repository:
+  {{name.snakeCase()}}:
 ```
 
 Install it:
